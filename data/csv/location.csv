@@ -1,0 +1,140 @@
+location_id,address,city,geo,state,location_name
+02affac5-2a6e-42ff-a25d-11bc219c7cdb,"2340 Chestnut St, San Francisco, CA 94123",San Francisco,POINT(-122.442032 37.800450),California,Presidio Theatre
+ecff8f92-94fd-41d8-9452-faa957a1a834,"2149 Chestnut St, San Francisco, CA 94123",San Francisco,POINT(-122.438642 37.800392),California,Marina Theater
+4c9252c4-a6b0-40af-a36f-ee048d0ab3c3,"2221, 2261 Fillmore St, San Francisco, CA 94115",San Francisco,POINT(-122.434360 37.790289),California,Landmark\'s Clay Theatre
+b875905a-098a-4294-9584-8aeae14a790d,"1 Embarcadero Center, San Francisco, CA 94111",San Francisco,POINT(-122.399424 37.795011),California,Landmark\'s Embarcadero Center Cinema
+d4eab9b3-58b0-4a93-8dae-53ee474549a7,"3290 Sacramento St, San Francisco, CA 94115",San Francisco,POINT(-122.446742 37.788410),California,Vogue Theatre
+76f0a96b-52d2-4e34-b023-c927149481ad,"2200 Clement St, San Francisco, CA 94121",San Francisco,POINT(-122.482929 37.782230),California,Four Star Theatre
+ac6dfec8-981a-44a7-9346-fc3636433987,"3630 Balboa St, San Francisco, CA 94121",San Francisco,POINT(-122.497970 37.775850),California,Balboa Theatre
+8e1beff1-0608-4d67-a9f9-3d910765a5e5,"1881 Post St, San Francisco, CA 94115",San Francisco,POINT(-122.432550 37.785007),California,AMC Kabuki 8
+fa9ee0ae-621d-4751-a1d1-89b3ea6ccb9e,"1746 Post St, San Francisco, CA 94115",San Francisco,POINT(-122.430629 37.785761),California,New People
+ad239d76-4862-4b62-ac9f-d2346fe08abb,"1000 Van Ness Ave, San Francisco, CA 94109",San Francisco,POINT(-122.420443 37.785105),California,AMC Van Ness 14
+f1c279be-93d5-46e4-b18c-8a3ca5a43e0e,"601 Van Ness Ave, San Francisco, CA 94102",San Francisco,POINT(-122.421957 37.781582),California,Opera Plaza Cinema - Landmark Theatres
+f86baa0c-e05c-4b33-8883-584589057b35,"135 4th St, San Francisco, CA 94103",San Francisco,POINT(-122.403373 37.784337),California,AMC Metreon 16
+b21f299f-450e-4d05-b373-b6f399a8267f,"845 Market St #500, San Francisco, CA 94103",San Francisco,POINT(-122.405845 37.783841),California,Century San Francisco Centre 9 and XD
+eca33def-7399-451d-bc44-ea962e158f26,"3117 16th St, San Francisco, CA 94103",San Francisco,POINT(-122.422428 37.764657),California,Roxie Theatre
+33331c0b-877e-4bee-93d4-f437c8f16325,"429 Castro St, San Francisco, CA 94114",San Francisco,POINT(-122.434758 37.762032),California,The Castro Theatre
+87b9b6af-3b0b-4e1c-a35d-a3366200e47f,"2550 Mission St, San Francisco, CA 94110",San Francisco,POINT(-122.419122 37.756217),California,Alamo Drafthouse Cinema
+5aa44746-66b6-4f1b-9145-0b3d56124745,"85 W Portal Ave, San Francisco, CA 94127",San Francisco,POINT(-122.466543 37.739812),California,CineArts at the Empire
+866763b0-8ed1-421c-b1db-5a94d01cdfaf,"501 Buckingham Way, San Francisco, CA 94132",San Francisco,POINT(-122.478894 37.729742),California,United Artists Stonestown
+00b62a14-1147-4dcf-91c4-e6d68b26528a,"1901 Junipero Serra Blvd, Daly City, CA 94015",Daly City,POINT(-122.470337 37.702142),California,Century 20 Daly City and XD
+c3f504b1-e7b0-4d48-bcca-dd95abdfebcf,"1188 El Camino Real, San Bruno, CA 94066",San Bruno,POINT(-122.417790 37.637942),California,Century at Tanforan and XD
+a50e466d-2c33-407f-9047-cae3776d44ae,"320 East 2nd Avenue, San Mateo, CA 94010",San Mateo,POINT(-122.322100 37.566117),California,Century 12 San Mateo
+94a5cdd3-1b70-4d72-8d10-a96a13c2e856,"1500 Ralston Ave, Belmont, CA 94002",Belmont,POINT(-122.285199 37.515517),California,The NDNU Theatre
+266e36bc-712a-4729-8296-fb90af392f92,"1627, 825 Middlefield Rd, Redwood City, CA 94063",Redwood City,POINT(-122.228940 37.486191),California,Redwood Downtown 20 and XD
+34ba2b9e-d92c-4b7e-9759-5004e620cae4,"949 El Camino Real, Menlo Park, CA 94025",Menlo Park,POINT(-122.181162 37.452529),California,Landmark\'s Guild Theatre
+3d1f237a-58d6-40e0-a979-0afae6e2cf23,"221 University Ave, Palo Alto, CA 94301",Palo Alto,POINT(-122.162665 37.445209),California,The Stanford Theatre
+f5ee29bb-db99-4070-9202-8898eacc2b14,"1604, 430 Emerson St, Palo Alto, CA 94301",Palo Alto,POINT(-122.163591 37.445053),California,Landmark\'s Aquarius Theatre
+38ed3132-c079-4ae7-a064-9f846ad3a7b1,"3000 El Camino Real, Palo Alto, CA 94306",Palo Alto,POINT(-122.141559 37.420483),California,CineArts Palo Alto Square
+b636786b-bc45-4f8d-9a5f-4e8fe299838d,"2575 California St #601, Mountain View, CA 94040",Mountain View,POINT(-122.109552 37.405225),California,Showplaceicon California
+fdc5abe0-0512-4e9d-a6b9-2edd2594cb66,"1500 N Shoreline Blvd, Mountain View, CA 94043",Mountain View,POINT(-122.081098 37.414462),California,Century Cinema 16
+2e353924-e7b9-4837-b121-5fe819a7ec1a,"1260 Alderwood Ave, Sunnyvale, CA 94089",Sunnyvale,POINT(-121.994291 37.405830),California,Cinema Development Co
+42294905-208f-4223-8206-53617ba3f61a,"3111 Mission College Blvd, Santa Clara, CA 95054",Santa Clara,POINT(-121.983021 37.389181),California,AMC Mercado 20
+c9bf5638-ce09-47c8-a788-0c426e122ced,"3088 Olsen Dr, San Jose, CA 95128",San Jose,POINT(-121.948460 37.318706),California,CineArts @ Santana Row
+3c968551-ef86-4dfd-88b8-c5637cd73b14,"700 El Paseo de Saratoga, San Jose, CA 95130",San Jose,POINT(-121.989998 37.288732),California,AMC Saratoga 14
+7fb5b1c6-3fe5-48b4-98c7-d89048cde3d4,"2501 Winchester Blvd, Campbell, CA 95008",Campbell,POINT(-121.950893 37.278731),California,CineLux Plaza Theatre
+bd51c56f-e6a0-4a57-88ad-4bdee0e1c8c3,"2306 Almaden Rd, San Jose, CA 95125",San Jose,POINT(-121.880303 37.290337),California,CineLux Almaden Cinema
+24ce4351-d79a-4ce0-882f-562632d940b0,"201 S Market St, San Jose, CA 95113",San Jose,POINT(-121.890125 37.331630),California,Hackworth IMAX Dome - The Tech Museum
+42a9e782-edfc-4f01-8d68-ba238ba15efe,"1875 S Bascom Ave, Campbell, CA 95008",Campbell,POINT(-121.933996 37.288051),California,Pruneyard Cinemas
+4adc5044-db02-4c08-b105-26af974f8578,"41 N Santa Cruz Ave, Los Gatos, CA 95030",Los Gatos,POINT(-121.983429 37.223919),California,Los Gatos Theatre
+5077f17c-35a3-4d4e-9128-c28fee968086,"925 Blossom Hill Rd, San Jose, CA 95123",San Jose,POINT(-121.862540 37.251420),California,Century Oakridge 20
+194253b1-6d48-4141-806c-564140a2fa24,"3630 Hillcap Ave, San Jose, CA 95136",San Jose,POINT(-121.840402 37.280262),California,West Wind Capitol Drive-In
+ba662d66-fc76-4a3f-a3ad-1abea4a9e9f3,"2190 Eastridge Loop, San Jose, CA 95122",San Jose,POINT(-121.814231 37.323615),California,AMC Eastridge 15
+336f6704-ce40-429a-919f-3faeea3a1f51,"1300 Senter Rd, San Jose, CA 95112",San Jose,POINT(-121.861144 37.323637),California,Kelley Park Ampitheater
+fd50dd97-abff-4b96-acde-aa339c5be4f3,"1433 The Alameda, San Jose, CA 95126",San Jose,POINT(-121.914391 37.333261),California,Towne 3 Cinemas
+11766a5b-353f-4719-9331-1406f87ec9c1,"28 N 1st St #1000, San Jose, CA 95112",San Jose,POINT(-121.884723 37.345624),California,Starlight Cinemas
+cc93e6c4-b5cb-4eab-9fb5-f59372e28d7f,"200 Serra Way #37, Milpitas, CA 95035",Milpitas,POINT(-121.910443 37.426135),California,Serra Theatres
+1a33334e-134b-40fa-bfb4-e36f35d35b15,"1010 Great Mall Dr, Milpitas, CA 95035",Milpitas,POINT(-121.899025 37.418007),California,Century 20 Great Mall and XD
+4149c86f-b5e4-4573-be19-d18369dcc5cc,"43917 Pacific Commons Blvd, Fremont, CA 94538",Fremont,POINT(-121.970853 37.499929),California,Century at Pacific Commons and XD
+94afbd68-1938-474d-bd38-80b6b8cb6dce,"400 Newpark Mall, Newark, CA 94560",Newark,POINT(-122.001357 37.527284),California,AMC NewPark 12
+432fb0b5-b4b3-4596-a6fc-888bcee4cace,"1612, 39160 Paseo Padre Pkwy, Fremont, CA 94538",Fremont,POINT(-121.979574 37.554095),California,Cine Grand Fremont 7
+16a88f2f-2a52-48e2-b8d0-75cb0329560a,"32100 Union Landing Blvd, Union City, CA 94587",Union City,POINT(-122.067618 37.599281),California,Century 25 Union Landing
+c156bd04-d2ae-42d8-97cb-01d3941430e9,"1069 B St, Hayward, CA 94541",Hayward,POINT(-122.081290 37.673464),California,Century at Hayward
+8eeaa4a1-15f8-4067-8a61-62cefbd09f85,"1050 Mattox Rd, Hayward, CA 94541",Hayward,POINT(-122.099762 37.686752),California,Network Theatre Bingo
+11522c46-86e8-4c90-a202-62fc20ff955d,"2853 Castro Valley Blvd, Castro Valley, CA 94546",Castro Valley,POINT(-122.083113 37.694941),California,CineLux Chabot Cinema
+aa0a3e5b-611f-4ca6-b7fd-91cb87f6e6bb,"15555 E 14th St # 600, San Leandro, CA 94578",San Leandro,POINT(-122.123192 37.699427),California,Century 16 Bayfair Mall
+179f77ac-c250-4837-a156-013460eda962,"14808 E 14th St, San Leandro, CA 94578",San Leandro,POINT(-122.133000 37.708673),California,Historic BAL Theatre
+afa5ab4f-773a-4b4a-8351-1c5b07557480,"2317 Central Ave, Alameda, CA 94501",Alameda,POINT(-122.243402 37.764588),California,Alameda Theatre & Cineplex
+787aeadb-199e-4c39-8a7a-459c545f5441,"1445 23rd Ave, Oakland, CA 94606",Oakland,POINT(-122.235546 37.784157),California,The Palace Theater Oakland
+29ca33a8-31be-493e-ac9f-9a322575742e,"100 Washington St, Oakland, CA 94607",Oakland,POINT(-122.277636 37.796141),California,Regal Cinemas Jack London 9
+f48b6951-ffe7-45ae-b4bd-e158c4519da1,"1400 Broadway, Oakland, CA 94612",Oakland,POINT(-122.271113 37.804364),California,Piedmont movie theater
+2927a318-e0cc-4c8d-bd52-cd987d39a3a2,"2025 Broadway, Oakland, CA 94612",Oakland,POINT(-122.268222 37.809706),California,Paramount Theatre
+9c6a285d-e5f1-413e-a277-2e986e243270,"474 24th St, Oakland, CA 94612",Oakland,POINT(-122.267470 37.813965),California,The New Parkway Theater
+4903edcd-6d6a-4cd2-ad1b-30468e47b873,"3200 Grand Ave, Oakland, CA 94610",Oakland,POINT(-122.247727 37.811506),California,Grand Lake Theatre
+b0557ef6-d06c-426a-b23b-f9a7139e9417,"5133, 4186 Piedmont Ave, Oakland, CA 94611",Oakland,POINT(-122.251012 37.827337),California,Landmark\'s Piedmont Theatre
+3f5c436e-2148-445b-aa20-3dc80799e01a,"5614 Bay St, Emeryville, CA 94608",Emeryville,POINT(-122.292046 37.832982),California,AMC Bay Street 16
+e319643b-b252-49a8-b4ea-d30a02abf108,"2966 College Ave, Berkeley, CA 94705",Berkeley,POINT(-122.253135 37.856691),California,Rialto Cinemas Elmwood
+5648b732-82d8-492c-9d55-2dccd2f5d861,"2274 Shattuck Ave, Berkeley, CA 94704",Berkeley,POINT(-122.268238 37.867932),California,United Artists Berkeley 7
+a934b781-517a-44d0-877f-9951e9814f42,"2113 Kittredge St, Berkeley, CA 94704",Berkeley,POINT(-122.267182 37.868824),California,Landmark\'s California Theatre
+acca5a2c-54ef-4f27-a8a6-20e18dad0240,"2230 Shattuck Ave, Berkeley, CA 94704",Berkeley,POINT(-122.268191 37.868734),California,Landmark\'s Shuttuck Cinemas
+c659ebd0-47ac-48e5-b4c2-b9f4a2597589,"3308, 4 Orinda Theatre Square, Orinda, CA 94563",Orinda,POINT(-122.182135 37.878739),California,Orinda Theatre
+bbdda26c-59cf-49ff-9888-84796daf5b12,"1115 Solano Ave, Albany, CA 94706",Albany,POINT(-122.298179 37.890434),California,Landmark\'s Albany Twin
+92a53ba7-a4c5-46cd-b92c-8e8ac131c850,"1200 S Stiles St, Linden, NJ 07036",Linden,POINT(-74.2452606 40.6208339),New York,AMC Aviation 12
+df8b085d-b7b4-4427-8f17-8e6660d81c81,"25 N Ave W, Cranford, NJ 07016",Cranford,POINT(-74.30607299999997 40.655622),New York,Cranford Theatre
+72b993dd-3b3c-41a6-b314-fbd61fc0d5bb,"680 Arthur Kill Rd, Staten Island, NY 10308",Staten Island,POINT(-74.16360370000001 40.5602137),New York,Atrium Stadium Cinemas
+cca85efd-bfba-45e8-8e7b-bf31883b19c6,"2474 Forest Ave, Staten Island, NY 10303",Staten Island,POINT(-74.17283270000001 40.6259233),New York,United Artists Staten Island 16 & RPX
+2caa7a01-d7b5-49be-90d4-c13be4bb69ce,"651 Kapkowski Rd, Elizabeth, NJ 07201",Elizabeth,POINT(-74.17133719999998 40.6601883),New York,AMC Loews Jersey Gardens 20
+8c4cc5d2-4177-440a-af2f-44edf8d6c53b,"191 Lefante Way, Bayonne, NJ 07002",Bayonne,POINT(-74.10628580000002 40.6679914),New York,Frank Theatres South Cove Stadium 12
+c6894d14-0efc-488b-8d74-ba8de0ef122c,"6817 5th Ave, Brooklyn, NY 11220",Brooklyn,POINT(-74.02061400000002 40.6335923),New York,Alpine Cinema
+0bdcb5dc-6526-475a-b049-e6e9962166cf,"409-415 14th St, Hoboken, NJ 07030",Hoboken,POINT(-74.03239589999998 40.7541757),New York,Bow Tie Cinemas
+3f44821e-d7db-49b9-889f-53935e3e4a5c,"30-300 Mall Dr W, Jersey City, NJ 07303",Jersey City,POINT(-74.03835279999998 40.7269252),New York,AMC Newport Centre 11
+b6d4bdd5-94ee-46cc-b977-9f63501830e4,"102 North End Ave, New York, NY 10281",New York,POINT(-74.01569599999999 40.7150553),New York,Regal Cinemas Battery Park 11
+df6a1a45-0f8a-4707-a60c-3b03e566d154,"106 Court St, Brooklyn, NY 11201",Brooklyn,POINT(-73.99216239999998 40.6907704),New York,United Artists Court Street 12 & RPX
+d8167a33-cd32-445d-a0b0-29160172fe67,"445 Albee Square W #4, Brooklyn, NY 11201",Brooklyn,POINT(-73.9833099 40.6910198),New York,Alamo Drafthouse
+b5f93e27-c044-44c4-84cd-56c9776b8665,"40 Bogart St, Brooklyn, NY 11206",Brooklyn,POINT(-73.93295109999997 40.7049732),New York,Syndicated Bar Theater Kitchen
+7e3e601d-854c-4ab3-bb2f-28dac42c460e,"217 Grand St, Brooklyn, NY 11211",Brooklyn,POINT(-73.95990719999998 40.7141763),New York,Williamsburg Cinemas
+8dbbc733-51c2-43ec-ae39-325d202f304b,"181-189 2nd Ave, New York, NY 10003",New York,POINT(-73.9863929 40.7309717),New York,Village East Cinema
+d89bb77d-d22a-4d58-8725-f91447b40f07,"850 Broadway, New York, NY 10003",New York,POINT(-73.99074329999996 40.7340349),New York,Regal Union Square Stadium 14
+0ceba12e-b1f4-4396-8eec-6cf2a04d69d2,"890 Broadway, New York, NY 10003",New York,POINT(-73.9895684 40.7385438),New York,AMC Loews 19th St. East 6
+937021e5-8788-4249-b6b0-c216ddf722b8,"570 2nd Ave, New York, NY 10016",New York,POINT(-73.97671930000001 40.7428896),New York,AMC Kips Bay 15
+00905db3-cad6-4be9-87dd-824fcb05cf56,"312 W 34th St, New York, NY 10001",New York,POINT(-73.99448480000001 40.7523527),New York,AMC Loews 34th Street 14
+6daabe5c-c75b-4aa5-a3fd-8722287f6b18,"234 W 42nd St, New York, NY 10036",New York,POINT(-73.98883380000001 40.7564269),New York,AMC Empire 25
+eed5673a-c885-4544-9b4c-45b04a96a4ad,"260 W 23rd St, New York, NY 10011",New York,POINT(-73.998039 40.7448299),New York,Cinepolis Chelsea
+18fd6e85-55b6-440f-962d-0508c2ae44d7,"650 Plaza Dr, Secaucus, NJ 07094",Seacaucus,POINT(-74.0467198 40.7852704),New York,Kerasotes ShowPlace 14 Secaucus
+15fb2932-2c70-488e-8a30-d8b3f938c757,"3125 John Fitzgerald Kennedy Blvd, North Bergen, NJ 07047",North Bergen,POINT(-74.0241059 40.7893464),New York,Empire Cinemas
+7120c4cd-b6e9-4751-839a-720398d9f3d2,"247 W 42nd St, New York, NY 10036",New York,POINT(-73.98877299999998 40.7571035),New York,Regal Cinemas E-Walk 13 & RPX
+75526959-8f52-4c0b-a00f-6bb96ae2431e,"4 W 58th St, New York, NY 10019",New York,POINT(-73.97430380000003 40.7637525),New York,The Paris Theatre
+df968c1e-b36c-4b0e-896a-a03f68ca550d,"1001 3rd Ave, New York, NY 10065",New York,POINT(-73.96608549999996 40.7618628),New York,"Cinemas 1, 2 & 3"
+bd97e071-b198-4961-bd15-3006ef121fd6,"1271 2nd Ave, New York, NY 10065",New York,POINT(-73.96116999999998 40.7654054),New York,The Beekman Theatre
+310a22d5-7a14-409d-bf26-3e7d353f7c51,"1998 Broadway, New York, NY 10023",New York,POINT(-73.98176139999998 40.7750243),New York,AMC Loews Lincoln Square 13
+924912b0-4b5c-4536-9171-f90886624894,"2310 Broadway, New York, NY 10024",New York,POINT(-73.97746059999997 40.7866937),New York,AMC 84th Street 6
+3edd58ee-f6bc-496e-b936-a5c45e9aa780,"1538 Third Ave (86th St.), New York, NY 10028",New York,POINT(-73.95396440000002 40.7793569),New York,AMC Loews Orpheum 7
+7924f790-a2f1-42ca-9e04-ea7a7d6089ff,"210 East 86th St, New York, NY 10028",New York,POINT(-73.95340959999999 40.7782674),New York,East 86th St. Cinema
+56269a7d-9411-4165-8bfb-833ff4ee30ff,"35-30 38th St, Astoria, NY 11101",Astoria,POINT(-73.92383269999999 40.7550107),New York,UA Kaufman Astoria Cinemas 14 & RPX
+5e3ae806-7575-4072-a703-51cf603ed2b5,"80-28 Cooper Ave, Glendale, NY 11385",Glendale,POINT(-73.8687832 40.7094481),New York,Regal Cinemas Atlas Park 8
+772e210c-0a8a-4d7e-8687-ee4dbf510a4f,"108-22 Queens Blvd, Forest Hills, NY 11375",Forest Hills,POINT(-73.84326290000001 40.720763),New York,United Artists Midway 9
+30010c31-1e3d-4c67-a659-f596919c6d96,"47-01 111th St, Corona, NY 11368",Corona,POINT(-73.85169250000001 40.7472583),New York,Empire Drive-In - Ali Hadi
+c4f72355-148d-401a-84e8-e0258793fe5b,"90-18 Astoria Blvd, East Elmhurst, NY 11369",East Elmhurst,POINT(-73.8787519 40.7633204),New York,Fair Theatre
+776115ea-9868-45e2-a1f7-0568dfe07ce8,"2855 Ulmer St, Whitestone, NY 11357",Whitestone,POINT(-73.8352918 40.7716451),New York,College Point Multiplex Cinemas
+090e7d3d-fac9-4e1a-a2f7-5dd2aa221471,"72-66 Main St, Flushing, NY 11367",Flushing,POINT(-73.82129829999997 40.7250168),New York,Main Street Cinemas
+fe633b1b-4b53-4a94-9368-4d2b385aca05,"159-02 Jamaica Ave, Jamaica, NY 11423",Jamaica,POINT(-73.79928380000001 40.7030787),New York,Jamaica Multiplex Cinemas
+9ce17f53-0180-4e12-8fa6-3309bf7e47bd,"6825 Fresh Meadow Ln, Flushing, NY 11365",Flushing,POINT(-73.79427279999999 40.733052),New York,Bombay Theatre ny
+e4d9d955-2953-4611-9934-0e1597e0abeb,"106-03 Metropolitan Ave, Forest Hills, NY 11375",Forest Hills,POINT(-73.84696550000001 40.7100304),New York,Cinemart Cinemas
+fe1aa06f-3996-4eef-9b9b-a7f0856e389c,"8105 Lefferts Blvd, Kew Gardens, NY 11415",Kew Gardens,POINT(-73.82974919999998 40.709124),New York,Kew Gardens Cinemas
+ee3d65f7-d456-4ed4-8a78-9c0576e364ac,"190-02 Horace Harding Expy, Fresh Meadows, NY 11365",Fresh Meadows,POINT(-73.78374100000002 40.7411504),New York,AMC Fresh Meadows 7
+dda845fe-ba2b-47ff-9d44-855fc42ebb06,"989 Hempstead Turnpike, Franklin Square, NY 11010",Franklin Square,POINT(-73.67684429999997 40.7071504),New York,Bow Tie Franklin Square Cinemas
+39526aa5-7d85-4154-95a4-c6e492f75abe,"350 Hempstead Ave, Malverne, NY 11565",Malverne,POINT(-73.6676473 40.6770253),New York,Malverne Cinema
+e8749322-a47c-4b3a-b818-b454fe8a4f0a,"321 Merrick Rd, Lynbrook, NY 11563",Lynbrook,POINT(-73.6717018 40.6575154),New York,Regal Lynbrook 13
+1bb375a3-13d0-4b4b-b0bf-234ec3d45abf,"211-01 26th Ave, Bayside, NY 11360",Bayside,POINT(-73.77885300000003 40.7794457),New York,AMC Bay Terrace 6
+7dfe787d-d17f-43ab-9b17-4685c7615e5c,"3324 Hillside Avenue, New Hyde Park, NY 11040",New Hyde Park,POINT(-73.66010540000002 40.7521679),New York,Bow Tie Herricks Cinemas
+2c5d0903-646f-4035-bfcd-621f19246122,"630 Old Country Rd, Garden City, NY 11530",Garden City,POINT(-73.61509790000002 40.7393369),New York,AMC Roosevelt Field 8
+8193773f-f2d7-45e8-8dea-e9a1327447aa,"115 Middle Neck Rd, Great Neck, NY 11021",Great Neck,POINT(-73.72984409999998 40.7897016),New York,Bow Tie Squire Cinemas
+54c201b8-c627-46f8-8be0-9d06b39f2cc5,"430 Plandome Rd, Manhasset, NY 11030",Manhasset,POINT(-73.69988430000001 40.7985086),New York,Bow Tie Cinemas
+253b7663-e7a5-43d2-82ee-16c25b1f31cf,"20 Tower Pl, Roslyn, NY 11576",Roslyn,POINT(-73.6498957 40.7997855),New York,Bow Tie Roslyn Cinemas
+71b86cdd-730a-46f7-91eb-5af95b4fccca,"1025 Corporate Dr, Westbury, NY 11590",Westbury,POINT(-73.59640200000001 40.7425664),New York,AMC Loews Raceway 10
+69c0dd45-3a26-4449-aa97-623b3ad6b01a,"7000 Brush Hollow Rd, Westbury, NY 11590",Westbury,POINT(-73.55593469999997 40.7785975),New York,United Artists Westbury 12 IMAX & RPX
+394141f3-1d0a-450a-b890-bbfee3be794a,"2210 Bartow Ave, Bronx, NY 10475",Bronx,POINT(-73.82337319999999 40.86894530000001),New York,AMC Bay Plaza 13
+ac1385b3-3690-43d7-84ce-0bc26e8d3878,"339 River Rd, Edgewater, NJ 07020",Edgewater,POINT(-73.98832879999998 40.8081628),New York,Edgewater Multiplex Cinemas
+adf7ebc7-c76c-46a2-b4e4-addff4753d1d,"2920 Broadway, New York, NY 10027",New York,POINT(-73.96398669999996 40.806876),New York,Columbia University Miller Theatre
+4a58fff9-6b4b-4e5f-8975-0dc3f0960456,"2309 Frederick Douglass Blvd, New York, NY 10027",New York,POINT(-73.95178169999997 40.8096863),New York,AMC Magic Johnson Harlem 9
+1c5c063e-f781-49cf-bfb6-3ddcaffbcf19,"141 W 54th St, New York, NY 10019",New York,POINT(-73.97981060000001 40.7631786),New York,Bow Tie Cinemas Ziegfeld Theater
+d15fd2c3-4566-4806-aa3d-c4fa59d043c4,"2023 Hudson St, Fort Lee, NJ 07024",Fort Lee,POINT(-73.96907709999999 40.8522228),New York,iPic Fort Lee
+f6bf2f4e-c09e-4a54-9676-b176477bb835,"75 Challenger Rd, Ridgefield Park, NJ 07660",Ridgefield Park,POINT(-74.0125683 40.8492228),New York,AMC Starplex Ridgefield Park 12
+175d2130-3e11-439f-a7d1-09c5a1381fa2,"2210 Bartow Ave, Bronx, NY 10475",Bronx,POINT(-73.82337319999999 40.86894530000001),New York,AMC Bay Plaza Cinema 13
+eeaec0fb-85ee-4a44-b892-3a673ecfbd0a,"2460 Lemoine Ave # 1000, Fort Lee, NJ 07024",Fort Lee,POINT(-73.9614914 40.86429589999999),New York,Arena Entertainment
+e51dd410-a805-4fef-9455-a1f38d983b09,"2 South Dr, Yonkers, NY 10704",Yonkers,POINT(-73.85449519999997 40.9247544),New York,Cross County Multiplex Cinemas
+e23a7dac-71d0-4516-8b1e-cf6dc3ad3515,"175 Wolfs Ln, Pelham, NY 10803",Pelham,POINT(-73.8116253 40.9073689),New York,The Picture House
+149dfe79-a308-4876-b020-dc9841b8d309,"33 Lecount Pl, New Rochelle, NY 10801",New Rochelle,POINT(-73.77919400000002 40.9114246),New York,Regal Cinemas New Roc 18 IMAX & RPX
+b895927c-6ef1-48f1-8fae-59f5df319c2a,"84 Kraft Ave, Bronxville, NY 10708",Bronxville,POINT(-73.8342485 40.940267),New York,Bow Tie Cinemas - Bronxville
+c1fe0a51-3ec9-4d1f-8e6b-80cc78135c13,"2548 Central Park Ave, Yonkers, NY 10710",Yonkers,POINT(-73.82447339999999 40.9825826),New York,Alamo Drafthouse Cinema
+a0c20278-28df-49ea-b93f-21e162c170bf,"29 Fitzgerald Street, Yonkers, NY 10710",Yonkers,POINT(-73.8561722 40.9663043),New York,Showcase Cinema de Lux Ridge Hill
