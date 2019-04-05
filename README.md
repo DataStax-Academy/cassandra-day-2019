@@ -1,7 +1,7 @@
-Welcome to DataStax Cassandra Day
+Welcome to Cassandra Day
 ========================================
 
-In this repository, you'll find everything from the DataStax Cassandra Day event. There are materials used during presentations, hands-on exercises and reference applications. Feel free to bookmark this page for future reference!
+In this repository, you'll find everything from the Cassandra Day event. There are materials used during presentations, hands-on exercises and reference applications. Feel free to bookmark this page for future reference!
 
 <img src="./img/CassandraDayBanner.png" height="200" />
 
