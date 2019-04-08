@@ -9,9 +9,9 @@ In this repository, you'll find everything from the DataStax Cassandra Day event
 
 | Time  | Title
 |---|---|
-| 10:30 AM - 12:15 PM  | [Core Cassandra](https://github.com/DataStax-Academy/cassandra-day-2019/blob/master/slides/Developer%20Day%20-%20Core%20Cassandra.pdf)  |
-| 01:00 PM - 02:45 PM | [Cassandra Data Modeling](https://github.com/DataStax-Academy/cassandra-day-2019/blob/master/slides/Developer%20Day%20-%20Data%20Modeling.pdf)  |
-| 03:00 PM - 04:45 PM | [Cassandra Application Development](https://github.com/DataStax-Academy/cassandra-day-2019/blob/master/slides/Developer%20Day%20-%20Application%20Development.pdf)  |
+| 10:30 AM - 12:15 PM  | [Core Cassandra](https://github.com/DataStax-Academy/cassandra-day-2019/blob/master/slides/Casssandra%20Day%20-%20Core%20Cassandra.pdf)  |
+| 01:00 PM - 02:45 PM | [Cassandra Data Modeling](https://github.com/DataStax-Academy/cassandra-day-2019/blob/master/slides/Cassandra%20Day%20-%20Data%20Modeling.pdf)  |
+| 03:00 PM - 04:45 PM | [Cassandra Application Development](https://github.com/DataStax-Academy/cassandra-day-2019/blob/master/slides/Cassandra%20Day%20-%20Application%20Development.pdf)  |
 
 ## Hands-On Exercises
 
