@@ -55,7 +55,6 @@ CREATE KEYSPACE IF NOT EXISTS killrvideo WITH REPLICATION = { 'class' : 'SimpleS
 | Notebook File | Setup Notes
 |---|---|
 | [Prepared Statements](https://github.com/DataStax-Academy/cassandra-day-2019/blob/master/notebooks/Application_Development_Prepared_Statements.studio-nb.tar) | - The [KillrVideo reference app](https://killrvideo.github.io/docs/languages/java/) should be set up using the `app-cassandra-day-exercises` branch.
-| [Accessors](https://github.com/DataStax-Academy/cassandra-day-2019/blob/master/notebooks/Application_Development_Accessors.studio-nb.tar) | - The [KillrVideo reference app](https://killrvideo.github.io/docs/languages/java/) should be set up using the `app-cassandra-day-exercises` branch.
 
 ### Extra Materials
 
