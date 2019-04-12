@@ -47,7 +47,9 @@ CREATE KEYSPACE IF NOT EXISTS killrvideo WITH REPLICATION = { 'class' : 'SimpleS
 | Notebook File | Setup Notes
 |---|---|
 | [Intro](https://github.com/DataStax-Academy/cassandra-day-2019/blob/master/notebooks/Data_Modeling_Data_Modeling_Intro_DataStax_Cassandra_Day.studio-nb.tar) | - Data should be [loaded](https://github.com/DataStax-Academy/cassandra-day-2019/tree/master/setup/load-data) in the `killrvideo` keyspace.
-| [Cassandra-Land Project](https://github.com/DataStax-Academy/cassandra-day-2019/blob/master/notebooks/Data_Modeling_Cassandra-Land_Project.studio-nb.tar) | - Data should be [loaded](https://github.com/DataStax-Academy/cassandra-day-2019/tree/master/setup/load-data) in the `killrvideo` keyspace.
+| [Cassandra-Land Project Part 1](https://github.com/DataStax-Academy/cassandra-day-2019/blob/master/notebooks/Data_Modeling_Cassandra-Land_Project_PART_1.studio-nb.tar) | - Data should be [loaded](https://github.com/DataStax-Academy/cassandra-day-2019/tree/master/setup/load-data) in the `killrvideo` keyspace.
+| [Cassandra-Land Project Part 2](https://github.com/DataStax-Academy/cassandra-day-2019/blob/master/notebooks/Data_Modeling_Cassandra-Land_Project_PART_2.studio-nb.tar) | - Data should be [loaded](https://github.com/DataStax-Academy/cassandra-day-2019/tree/master/setup/load-data) in the `killrvideo` keyspace.
+| [Cassandra-Land Project Part 3](https://github.com/DataStax-Academy/cassandra-day-2019/blob/master/notebooks/Data_Modeling_Cassandra-Land_Project_PART_3.studio-nb.tar) | - Data should be [loaded](https://github.com/DataStax-Academy/cassandra-day-2019/tree/master/setup/load-data) in the `killrvideo` keyspace.
 
 #### Application Development
 | Notebook File | Setup Notes
