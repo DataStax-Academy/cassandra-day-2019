@@ -12,6 +12,8 @@ services:
       DS_LICENSE: accept  
   dse: # DataStax Enterprise Database
     image: datastax/dse-server:6.7.0
+    volumes:
+      - ./data:/data
     ports:
       - "9042:9042" # Exposes DSE port
     environment:
