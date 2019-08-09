@@ -1,0 +1,25 @@
+version: '3'
+services:
+  studio:  # Datastax Studio provides convenient web interface to work directly with the Apache Cassandra or DataStax Enterprise
+    image: datastax/dse-studio:6.7.0
+    volumes:
+      - ./studio_data:/var/lib/datastax-studio
+      - ./studio_config.yaml:/opt/datastax-studio/conf/configuration.yaml
+    ports:
+      - "9091:9091" # Exposes port to be available externally
+    depends_on:
+      - dse # Needs DSE to be running
+    environment:
+      DS_LICENSE: accept  
+  dse: # DataStax Enterprise Database
+    image: datastax/dse-server:6.7.0
+    volumes:
+      - ./data:/data
+    ports:
+      - "9042:9042" # Exposes DSE port
+    environment:
+      DS_LICENSE: accept # Accept licence on start
+    cap_add:
+      - IPC_LOCK # Allow DSE to lock memory with mlock
+    ulimits:
+      memlock: -1

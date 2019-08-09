@@ -13,28 +13,24 @@ In this repository, you'll find everything from the Cassandra Day event. There a
 | 120 minutes | [Cassandra Data Modeling](https://github.com/DataStax-Academy/cassandra-day-2019/blob/master/slides/Cassandra%20Day%20-%20Data%20Modeling.pdf)  |
 | 90 minutes | [Cassandra Application Development](https://github.com/DataStax-Academy/cassandra-day-2019/blob/master/slides/Cassandra%20Day%20-%20Application%20Development.pdf)  |
 
-## Hands-On Exercises
+## Hands-On Exercises 
+### Installation Instructions
+#### Docker Version (Recommended & Supported)
+    git clone https://github.com/DataStax-Academy/cassandra-day-2019.git
+    cd cassandra-day-2019
+    docker-compose up -d
+Wait for DSE to start up (may take a minute or about that) and load the data:
 
-#### Instructions
+    docker-compose exec dse /data/load_data.sh
+Open [localhost:9091](http://localhost:9091) (if you use *docker-machine* or previous version of *Docker for Mac*, your hostname may vary)
+#### Manual Installation
 * [Install DataStax Enterprise](https://docs.datastax.com/en/install/doc/install60/installTOC.html)
-
-Or use Docker :
-```
-docker run -e "DS_LICENSE=accept" -it -d -p 9042:9042 --name dse datastax/dse-server -s -g
-```
-
 * [Install DataStax Studio](https://docs.datastax.com/en/install/doc/install60/installStudio.html)
    - The notebooks below should be [imported](https://docs.datastax.com/en/studio/6.0/studio/importNotebook.html) and opened in DataStax Studio
 
-Or use Docker :
-```
-docker run -e "DS_LICENSE=accept" -it -d -p 9091:9091 --link dse:dse datastax/dse-studio
-```
+### Exercises
 
-_If you are using docker DSE Server you may have to change the KeyspaceDefinition with_
-```
-CREATE KEYSPACE IF NOT EXISTS killrvideo WITH REPLICATION = { 'class' : 'SimpleStrategy', 'replication_factor' : 1 };
-```
+**Notice** You don't need to do any additional setup if you use Docker Version.
 
 #### Core Cassandra
 | Notebook File | Setup Notes
